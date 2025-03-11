@@ -3,3 +3,4 @@
 [ama bunun için tesseract'ı kurmak gerekli:](https://tesseract-ocr.github.io/tessdoc/Downloads.html)
 
 
+(img/img1.png)
